@@ -1,0 +1,308 @@
+.color{
+    background-color: #FFE3E7;
+}
+
+.second-line{
+    padding-top: 100px;
+    color: #666666;
+}
+
+
+.welcome{
+    color: red;
+    font-family: f;
+}
+
+.learning{
+    font-weight: 700;
+    font-family: f;
+}
+
+.enroll{
+    border-radius: 50px;
+    border: none;
+    background-color: #D92351;
+    color: white;
+    font-weight: 500;
+    width: 150px;
+    height: 50px;
+}
+
+.mission{
+    color: #D92351;
+    font-family: f;
+}
+
+.learn-more{
+    border-radius: 50px;
+    border: none;
+    background-color: #D92351;
+    color: white;
+    font-weight: 500;
+    width: 150px;
+    height: 50px;
+}
+
+.unique{
+    text-align: center;
+    font-family: f;
+    color: #D92351;
+    font-weight: 600;
+}
+
+.what{
+    text-align: center;
+    font-family: f;
+    font-weight: 600;
+}
+
+.our-mission{
+    font-family: f;
+     font-weight: 600;
+     color: black;
+}
+.Kidzone{
+    font-family: f;
+}
+.image{
+    margin-top: -100px;
+}
+
+.We-believe{
+    font-family: f;
+}
+
+.teaching{
+    text-align: center;
+    font-family: f;
+}
+.Maintain{
+    text-align: center;
+    font-family: f;
+    color: #666666;
+}
+
+.all-card{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.Outdoor{
+    text-align: center;
+    font-family: f;
+}
+
+.Rock{
+    text-align: center;
+    font-family: f;
+    color: #666666;
+}
+
+.Fun{
+    text-align: center;
+    font-family: f; 
+}
+
+.color2{
+    background-color: #DFF4FF;
+ 
+}
+
+.card-text1{
+    font-family: f; 
+    color: #666666; 
+}
+
+.Most{
+    text-align: center;
+    font-family: f; 
+    color: #666666;
+}
+
+.playground{
+    font-family: f; 
+    
+}
+
+.KIDZONE{
+    text-align: center;
+    font-family: f; 
+    color: #D92351;
+}
+
+.Our-Programmes{
+    text-align: center;
+    font-family: f; 
+}
+
+.line{
+    color: #D92351;
+    font-family: f; 
+}
+
+.Parent{
+    font-family: f;  
+}
+
+.if-the{
+    font-weight: 400;
+    font-family: f; 
+    color: #666666;
+}
+
+
+.btn{
+    background-color: #D92351;
+    color: white;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+}
+
+.que{
+    background-color: #fff;
+    color: black;
+    text-decoration: none;
+    padding-left: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    font-family: f;
+}
+.que-btn{
+    text-decoration: none;
+    border: none;
+    background-color: #D92351;
+    color: white;
+    padding: 10px 28px;
+    padding-bottom: 12px;
+    border-radius: 25px;
+    font-weight: 600;
+    font-family: f;
+}
+
+/* **************************************************** */
+.parents{
+    font-family: f;
+    text-align: center;
+    margin-top: 100px;
+    color: #D92351;
+    font-weight: 600;
+}
+
+.what-parents{
+    font-family: f;
+    text-align: center;
+    font-weight: 600;
+}
+
+.kidzone1{
+    font-family: f;
+    text-align: center;
+    margin-top: 200px;
+    color: #D92351;
+    font-weight: 600;
+}
+
+.Meet{
+    font-family: f;
+    text-align: center;
+    font-weight: 600;
+}
+
+.pho{
+    border: none;
+}
+
+.img{
+    text-align: center;
+}
+
+.facebook{
+    background-color: #4B6BAB;
+    border-radius: 10px;
+}
+
+.twitter{
+    border-radius: 5px;
+}
+
+.ashley{
+    font-family: f;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.Music{
+    font-family: f;
+    text-align: center;
+    font-weight: 600;
+    color: #666666;
+}
+
+/* ********************************************************************** */
+.color3{
+    background-color: #E1FCEB;
+    margin-top: -200px;
+}
+
+.kidzone2{
+    font-family: f;
+    color: #D92351;
+    font-weight: 600;
+}
+
+.our{
+    font-weight: 700;
+    font-family: f;
+}
+
+.latest{
+    font-weight: 700;
+    font-family: f;
+    text-align: center;
+}
+
+.how{
+    font-family: f;
+    font-weight: 600;
+}
+
+.At-vero{
+    font-family: f;
+    color: #666666;
+}
+
+.kidzone-comm{
+    color: #D92351;
+    font-weight: 700;
+    font-family: f;
+    margin-top: 200px;
+}
+
+.Enlist-Now{
+    font-weight: 700;
+    font-family: f;
+}
+
+.Are-you{
+    font-family: f;
+    color: #666666;
+}
+
+.Contact-Us{
+    color: white;
+    background-color: #D92351;
+    border-radius: 10px;
+    height: 40px;
+    border: none;
+    font-family: f;
+    width: 100px;
+}
+
+.hee{
+    margin-top: 120px;
+    padding-bottom: 80px;
+}
